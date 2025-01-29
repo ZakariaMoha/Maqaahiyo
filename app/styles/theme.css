@@ -1,0 +1,16 @@
+:root {
+    --light-golden: #f5d06e; /* Light golden color */
+    --white: #ffffff;       /* White */
+    --black: #000000;       /* Black */
+}
+
+body {
+    background-color: var(--white);
+    color: var(--black);
+}
+
+.header {
+    background-color: var(--light-golden);
+}
+
+/* ... existing styles ... */ 
